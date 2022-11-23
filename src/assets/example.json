@@ -1,0 +1,8 @@
+{
+  "name": "yu",
+  "age": 18,
+  "child": [
+    {"name": "yuxi", "gender": "female"},
+    {"name": "wangwang", "gender": "male"}
+  ]
+}
